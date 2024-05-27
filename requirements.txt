@@ -1,0 +1,6 @@
+uagents
+uagents-ai-engine
+langchain-google-genai
+pillow
+jupyter
+python-dotenv

@@ -1,0 +1,10 @@
+{
+    "url_shortener_agent": {
+        "identity_key": "b78e7c8c6413ab5bae7c5d9777da8d1a5bd40ab4e88f810b90f407c39977af03",
+        "wallet_key": "PDe0WdleJMnSOegeTMaeqeh3BvbjGVXT4/veLDOdf4Q="
+    },
+    "test_agent": {
+        "identity_key": "bcbde294ede4634690ffdfce1993f19a397b4f9682f4b3b3b9796143e9db9ef8",
+        "wallet_key": "DJKSlT20YESWVGirUybA8opoaXYvPoJ2hObL3zbkbTY="
+    }
+}
