@@ -4,3 +4,5 @@ langchain-google-genai
 pillow
 jupyter
 python-dotenv
+fastapi
+uvicorn
