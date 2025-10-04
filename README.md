@@ -8,19 +8,19 @@ Built using uAgents and Agentverse/DeltaV to create AI agents that perceive thei
 
 ## Demos
 
-- **URL Shortener Agent** ([url-shortener-agent-mailbox](url-shortener-agent-mailbox))  
+- **URL Shortener Agent** ([Demos/url-shortener-agent-mailbox](Demos/url-shortener-agent-mailbox))  
   Shortens URLs using the spoo.me service, supports custom aliases and passwords.
 
-- **Booking Demo** ([booking-demo](booking-demo), [booking-demo-2](booking-demo-2))  
+- **Booking Demo** ([Demos/booking-demo](Demos/booking-demo), [Demos/booking-demo-2](Demos/booking-demo-2))  
   Restaurant table booking system with user and restaurant agents; handles queries and reservations.
 
 - **Agent Communication Examples**
 
-  - [agents-communication](agents-communication) – Basic communication between Alice and Bob agents.
-  - [agents-remote-communication](agents-remote-communication) – Remote communication between Sigmar and Slaanesh agents.
+  - [Demos/agents-communication](Demos/agents-communication) – Basic communication between Alice and Bob agents.
+  - [Demos/agents-remote-communication](Demos/agents-remote-communication) – Remote communication between Sigmar and Slaanesh agents.
 
-- **First Agent Demo** ([first-agent](first-agent))  
+- **First Agent Demo** ([Demos/first-agent](Demos/first-agent))  
   Simple "Hello World" style demo showing basic agent setup.
 
-- **Running Locally Demo** ([running-locally](running-locally))  
+- **Running Locally Demo** ([Demos/running-locally](Demos/running-locally))  
   Demonstrates a dice rolling agent for Dungeons & Dragons.
